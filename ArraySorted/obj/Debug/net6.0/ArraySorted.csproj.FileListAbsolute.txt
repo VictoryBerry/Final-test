@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\FinalTest\ArraySorted\bin\Debug\net6.0\ArraySorted.exe
+C:\Users\HP\Downloads\FinalTest\ArraySorted\bin\Debug\net6.0\ArraySorted.deps.json
+C:\Users\HP\Downloads\FinalTest\ArraySorted\bin\Debug\net6.0\ArraySorted.runtimeconfig.json
+C:\Users\HP\Downloads\FinalTest\ArraySorted\bin\Debug\net6.0\ArraySorted.dll
+C:\Users\HP\Downloads\FinalTest\ArraySorted\bin\Debug\net6.0\ArraySorted.pdb
+C:\Users\HP\Downloads\FinalTest\ArraySorted\obj\Debug\net6.0\ArraySorted.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\FinalTest\ArraySorted\obj\Debug\net6.0\ArraySorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\FinalTest\ArraySorted\obj\Debug\net6.0\ArraySorted.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\FinalTest\ArraySorted\obj\Debug\net6.0\ArraySorted.AssemblyInfo.cs
+C:\Users\HP\Downloads\FinalTest\ArraySorted\obj\Debug\net6.0\ArraySorted.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\FinalTest\ArraySorted\obj\Debug\net6.0\ArraySorted.dll
+C:\Users\HP\Downloads\FinalTest\ArraySorted\obj\Debug\net6.0\refint\ArraySorted.dll
+C:\Users\HP\Downloads\FinalTest\ArraySorted\obj\Debug\net6.0\ArraySorted.pdb
+C:\Users\HP\Downloads\FinalTest\ArraySorted\obj\Debug\net6.0\ArraySorted.genruntimeconfig.cache
+C:\Users\HP\Downloads\FinalTest\ArraySorted\obj\Debug\net6.0\ref\ArraySorted.dll
